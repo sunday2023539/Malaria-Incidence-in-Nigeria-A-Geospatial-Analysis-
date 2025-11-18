@@ -1,4 +1,5 @@
 **Malaria Incidence in Nigeria: A Geospatial Analysis**
+
 This study utilizes Geographic Information Systems (GIS) and interactive mapping to analyze the spatial and temporal distribution of malaria across Nigeria's 36 states and the Federal Capital Territory from 2010 to 2020. 
 The research aims to identify high-risk areas and track seasonal trends in malaria transmission by integrating various environmental and demographic factors.
 
