@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250113</CreaDate><CreaTime>16483900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><scaleRange><minScale>150000000</minScale><maxScale>5000</maxScale></scaleRange><DataProperties><itemProps><imsContentType export="False"/></itemProps></DataProperties><ArcGISProfile>ISO19139</ArcGISProfile></Esri><dataIdInfo><idCitation xmlns=""><resTitle>Nigeria States Malaria Indicator, Population and Weather Dataset</resTitle><date><createDate>2024-12-04T00:00:00</createDate><pubDate>2025-01-14T00:00:00</pubDate><reviseDate>2025-01-14T00:00:00</reviseDate></date></idCitation><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This dataset provides a detailed, state-level analysis of malaria risk in Nigeria. The data has been disaggregated from national-level malaria statistics using state population and weather patterns. it includes the following components&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;1. Nigeria administrative boundaries &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;2. Malaria indicators&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Malaria incidence and prevalence rates&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Mortality rates&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Effective Treatment&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;3. Population data&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;4. Weather data&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Temperature average &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Rainfall patterns&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><idCredit>Malaria Atlas Project
+National Population Commission
+Nigerian Meteorological Agency
+World bank data catalogue
+Babafemi Sunday Olatunji
+Leo Oni</idCredit><idPurp>This dataset offers a state-level view of malaria-related factors in Nigeria, disaggregated from national-level malaria data using state-specific population and weather patterns. it combines key malaria indicators ( Incidence, prevalence, mortality, and treatment rates), demographic data and environmental variables (rainfall and temperature). This structured data enables the exploration of spatial and temporal relationship between environmental factors, population characteristics and malaria risk, supporting targeted interventions, predictive modeling and decision making to combat across Nigerian states.</idPurp><resConst><Consts xmlns=""><useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This dataset is licensed under creative commons Attribution (CC BY Attribution)&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit></Consts></resConst><searchKeys><keyword>Nigeria</keyword><keyword>Malaria</keyword><keyword>States</keyword><keyword>Weather Pattern</keyword><keyword>Population</keyword><keyword>2010-2022</keyword></searchKeys><dataLang><languageCode value="ang"></languageCode></dataLang><dataChar><CharSetCd value="004"></CharSetCd></dataChar><dataExt xmlns=""><geoEle xmlns=""><GeoBndBox><westBL>-180</westBL><eastBL>180</eastBL><southBL>-90</southBL><northBL>90</northBL></GeoBndBox></geoEle></dataExt><idPoC xmlns=""><rpIndName>Babafemi Sunday Olatunji</rpIndName><rpOrgName>PLUS</rpOrgName><rpPosName>Student</rpPosName><role><RoleCd value="003"></RoleCd></role></idPoC><idPoC xmlns=""><rpIndName>Leo Oni</rpIndName><rpOrgName>PLUS</rpOrgName><rpPosName>Student</rpPosName><role><RoleCd value="003"></RoleCd></role></idPoC><resMaint xmlns=""><maintFreq><MaintFreqCd value="006"></MaintFreqCd></maintFreq></resMaint><tpCat><TopicCatCd value="003"/></tpCat><tpCat><TopicCatCd value="009"/></tpCat><tpCat><TopicCatCd value="012"/></tpCat><tpCat><TopicCatCd value="013"/></tpCat><tpCat><TopicCatCd value="016"/></tpCat><tpCat><TopicCatCd value="017"/></tpCat></dataIdInfo><mdHrLv><ScopeCd value="005"/></mdHrLv><mdDateSt Sync="TRUE">20250113</mdDateSt><Binary><Thumbnail><Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADIASwDAREA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+gAo
+AKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgA
+oAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACg
+AoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAC
+gAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKA
+CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAK
+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
+ht1wu4dHOMEfrXDjalo8qOvCwu+ZnrFeYd4UAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQ
+AUAFABQAUAFABQAUAFAHknxHVW8RcnGI1P6V6mC+Bnn4r4jiWQj5Y2DAjnc3euw5hQfPzv8AlCdc
+HvRuGw0qjHaCSW9fSgZJxbuAHwmMkGjYW4jylwMjEZP3qLhYk+0R5wGyfQU7oVgeZSh2EEngChsE
+jWt/DWtSQoY9OmKsu4MVIGKweIprS5sqE30M8xu0vkbcSltm09j6VtzLl5jLld7HtHhPRV0TQ4oS
+uJX+d8Nnk14lapzzuerShyxsbtZGgUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAB
+QAUAFABQAUAFAHM6/wCCrPxBei6nuZo22hcIBit6eIlTVkZToqbuzNX4YaUIWja5nYnoxAyK0+uT
+I+rQOU8UeBZ9At2urN2uLU/ez95fr7V00MUp+7Lcwq0OXVHKLNhBmMrxgE12XOWxGQDseRiST0PY
+UDGeYGUQspwvelfoFupPEAXMgXC4wPen5iZ6H4Q8DLN5eo6nEAvWOE/zNeficT9mB20KH2pHpSqq
+qFAAAGAK887DMl8OaTNfrevZRm4ByH56/StFVmly30IdOLd7GpWZYUAFABQAUAFABQAUAFABQAUA
+FABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAEVzbx3VvJBMu6N1KkU02ndCaurHhGtWf
+9maxc2WxiqOdgIx8ueK9ujU54JnlVYcsmjK2yyT7iB8n8Naa3I0GkNM7LnB7iluPY0NMha9vLe2j
+Ul3cIQOo560qklGDbHCLcke/W0ZitYoz1RAv5CvCbuz1lsS0hhQAUAFABQAUAFABQAUAFABQAUAF
+ABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAcn4s8IDXWW6tnEd2oxz0cds104fE
+Olo9jCtRVTXqcpB8NNUabfNNFH2+Vt3411PGx6IwWFfVmrB8LbdX3zag7n0Ee3+tZPGy6ItYVdWd
+JofhPTNDJeCPfMesj8muepWlU3N4Uow2N6sTQKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACg
+AoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAC
+gAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKA
+CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAK
+ACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoA
+KACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAo
+AKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgA
+oAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACg
+AoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAC
+gAoAKACgAoAKAP/Z</Data></Thumbnail></Binary><mdFileID>babafemi olatunji</mdFileID><mdLang><languageCode value="ang"></languageCode></mdLang><mdChar><CharSetCd value="004"></CharSetCd></mdChar><mdContact xmlns=""><rpIndName>Babafemi Sunday Olatunji </rpIndName><rpOrgName>PLUS</rpOrgName><rpPosName>Student</rpPosName><role><RoleCd value="003"></RoleCd></role></mdContact><mdContact xmlns=""><rpIndName>Oni Leo </rpIndName><rpOrgName>PLUS</rpOrgName><rpPosName>Student</rpPosName><role><RoleCd value="003"></RoleCd></role></mdContact><dqInfo xmlns=""><dqScope><scpLvl><ScopeCd value="001"></ScopeCd></scpLvl></dqScope></dqInfo></metadata>
