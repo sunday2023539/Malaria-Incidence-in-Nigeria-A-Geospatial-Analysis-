@@ -1,3 +1,7 @@
+
+[![View Story Map](https://img.shields.io/badge/View%20Interactive%20Story%20Map-blue?style=for-the-badge)](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)
+----
+----
 **Malaria Incidence in Nigeria: A Geospatial Analysis**
 
 This study utilizes Geographic Information Systems (GIS) and interactive mapping to analyze the spatial and temporal distribution of malaria across Nigeria's 36 states and the Federal Capital Territory from 2010 to 2020. 
@@ -41,6 +45,6 @@ The project employs various GIS techniques and interactive tools for data explor
 
 ## 🚀 View the Story Map
 
-[![View Story Map](https://img.shields.io/badge/View%20Interactive%20Story%20Map-blue?style=for-the-badge)](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)
+
 
 ---
