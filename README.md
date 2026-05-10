@@ -1,4 +1,9 @@
 
+![Malaria Risk Monitoring](malaria_dashboard_thumb.png)
+[![View Interactive Dashboard](https://img.shields.io/badge/View%20Interactive%20Dashboard-blue?style=for-the-badge)](https://zgis.maps.arcgis.com/apps/dashboards/25e2250005d54e0dbc3c5433a74ca8ec)
+---
+---
+
 [![View Story Map](https://img.shields.io/badge/View%20Interactive%20Story%20Map-blue?style=for-the-badge)](https://geoportal22s.zgis.at/portal/apps/storymaps/stories/adb2b64fc6ce4c9eb186a9d026ec240e)
 ----
 ----
